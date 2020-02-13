@@ -1,0 +1,11 @@
+{
+    "categories": {
+        "0": "web scraping"
+    },
+    "description": "Consultar valores da Tabela FIPE para Carros, Motos e Caminhões.",
+    "image": "//s3.amazonaws.com/appforest_uf/f1581029640304x196646187588220380/fipelogo-square.jpg",
+    "license": "open_source",
+    "link": "https://github.com/wgenial/fipe-json",
+    "name": "Tabela FIPE",
+    "plugin_instructions": "Para utilizar esta API não é necessária nenhuma credencial de autenticação. É só instalar e usar.\nFaça as chamadas nessa ordem:\n1) Consultar Tabela Referência (para obter a tabela atualizada do mês)]\n2) Consultar Marcas\n3) Consultar Anos\n4) Consultar Modelos\n5) Consultar o valor do veículo"
+}
